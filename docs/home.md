@@ -4,9 +4,13 @@ title: Co-Op Introduction
 slug: /
 ---
 
-Intealth has a long history of working with Drexel co-ops, and several staff members are Drexel alumni.
-
-> Check back here often as this welcome packet gets updated with new content.
+> 💡 **Welcome to the Co-Op Onboarding Guide**
+>
+> This guide is designed to walk you through everything you need to get started at Intealth.
+>
+> We recommend going **section by section, in order**, as many steps build on each other.
+>
+> You don’t need to rush — take your time, explore the content, and refer back to it often throughout your co-op.
 
 ## Modern App Team Intro
 
